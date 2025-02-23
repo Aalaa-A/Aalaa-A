@@ -12,7 +12,7 @@
 🔹 Passionate about applying **ML & AI to real-world problems**, especially in **risk modeling, fraud detection, and algorithmic trading**.  
 🔹 Focused on **Graph Neural Networks (GNNs), Reinforcement Learning (RL), and Anomaly Detection**.  
 
-💡 Currently **open to roles in Canada, the Middle East, and the UK**.  
+💡 Currently **open to roles in Canada, the Middle East, and the UK**. No sponsorship required.  
 
 ---
 
