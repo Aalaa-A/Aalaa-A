@@ -47,7 +47,7 @@ Implementing **Range Voting, Borda Count, and STV** for multi-agent decision-mak
 ## 📢 **Let's Connect!**  
 💼 **LinkedIn**: [linkedin.com/in/a-alaa-data](https://www.linkedin.com/in/a-alaa-data)  
 📫 **Email**: aalaaabdel@gmail.com  
-🌍 **Portfolio**: _(Coming Soon!)_  
+🌍 **Portfolio**: _(Check back soon!)_  
 
 ---
 💡 _Always open to discussions on AI applications in Finance, Cybersecurity, and Risk Modeling!_
