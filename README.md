@@ -45,7 +45,8 @@ Implementing **Range Voting, Borda Count, and STV** for multi-agent decision-mak
 ---
 
 ## 📢 **Let's Connect!**  
-💼 **LinkedIn**: [linkedin.com/in/aalaa-a](https://www.linkedin.com/in/aalaa-a/)  
+💼 **LinkedIn**: [linkedin.com/in/a-alaa-data](www.linkedin.com/in/
+a-alaa-data)  
 📫 **Email**: aalaaabdel@gmail.com 
 🌍 **Portfolio** (Coming Soon!)  
 
