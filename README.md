@@ -8,7 +8,7 @@ Machine Learning | Finance AI | Cybersecurity AI | Risk Modeling
 
 ## About Me  
 
-🔹 **Data Scientist & AI Researcher** with expertise in **Machine Learning, Finance AI, and Cybersecurity AI**.  
+🔹 **Data Scientist & Machine Learning Engineerr** with an interest in **Cybersecurity AI**.  
 🔹 Passionate about applying **ML & AI to real-world problems**, especially in **risk modeling, fraud detection, and algorithmic trading**.  
 🔹 Focused on **Graph Neural Networks (GNNs), Reinforcement Learning (RL), and Anomaly Detection**.  
 
