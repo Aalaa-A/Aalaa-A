@@ -8,11 +8,9 @@ Machine Learning | Finance AI | Cybersecurity AI | Risk Modeling
 
 ## About Me  
 
-🔹 **Data Scientist & Machine Learning Engineerr** with an interest in **Cybersecurity AI**.  
-🔹 Passionate about applying **ML & AI to real-world problems**, especially in **risk modeling, fraud detection, and algorithmic trading**.  
-🔹 Focused on **Graph Neural Networks (GNNs), Reinforcement Learning (RL), and Anomaly Detection**.  
+🔹 **Data Scientist & Machine Learning Engineerr**.  
+🔹 Passionate about applying **ML & AI to real-world problems**.  
 
- Currently **open to roles in Canada, the Middle East, and the UK**. No sponsorship required.  
 
 ---
 
