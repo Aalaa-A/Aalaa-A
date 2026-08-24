@@ -1,51 +1,51 @@
 <h1 align="center">Hi, I'm Aalaa</h1>
 
 <p align="center">
-Machine Learning | Finance AI | Cybersecurity AI | Risk Modeling
+Data Scientist · Machine Learning · AI Engineering
 </p>
 
 ---
 
-## About Me  
+## About Me
 
-🔹 **Data Scientist & Machine Learning Engineerr**.  
-🔹 Passionate about applying **ML & AI to real-world problems**.  
+I'm a Data Scientist and AI developer with an MSc in Data Science & Artificial Intelligence and a background in medicine.
 
+I build data, machine learning, and AI systems for real-world operational problems, with a particular interest in healthcare AI and intelligent automation.
 
----
-
-## 🔬 **Technical Skills**  
-✅ **Machine Learning & AI**: Graph Neural Networks (GNNs), Deep Learning, Reinforcement Learning (DQN), Anomaly Detection  
-✅ **Finance & Risk AI**: Time-Series Forecasting, Classification Models, Multi-Armed Bandits  
-✅ **Cybersecurity AI**: Fraud Detection, Adversarial ML, Threat Intelligence  
-✅ **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-Learn, SQL, NumPy, Pandas  
+Currently developing projects through **Half Past**, an independent AI and automation venture focused on turning operational problems into practical technical solutions.
 
 ---
 
-## Featured Projects  
- **[GNN Pandemic Forecasting](https://github.com/Aalaa-A/gnn-pandemic-forecasting)**  
-Graph Neural Networks for **COVID-19 time-series prediction**, integrating SIR modeling and interstate dependencies.  
+## Technical Skills
 
-**[Multi-Armed Bandit Optimization](https://github.com/Aalaa-A/multiarmed_bandit)**  
-Exploring **Epsilon-Greedy & UCB** strategies for **trading, portfolio optimization, and fraud detection**.  
+**Programming & Data**  
+Python · SQL · Pandas · NumPy
 
- **[Deep Q-Learning for Lunar Lander](https://github.com/Aalaa-A/lunar-lander-dqn)**  
-Training an AI agent to **land a spacecraft** using **reinforcement learning (DQN)**.  
+**Machine Learning & AI**  
+Scikit-learn · PyTorch · TensorFlow · Deep Learning · Graph Neural Networks
 
-🧠 **[EMNIST Handwritten Classification](https://github.com/Aalaa-A/EMNIST-balanced-classification)**  
-Comparing **CNNs vs. MLPs** for **fraud detection, document security, and signature verification**.  
+**Development**  
+FastAPI · Flask · Streamlit · REST APIs · Git · Docker
 
-🔢 **[Voting Algorithms for Decision Optimization](https://github.com/Aalaa-A/voting-algorithms)**  
-Implementing **Range Voting, Borda Count, and STV** for multi-agent decision-making.  
-
-🔭 **More projects** 👉 [See all my repositories](https://github.com/Aalaa-A?tab=repositories)  
+**Analytics**  
+Data Cleaning · Feature Engineering · Statistical Analysis · Predictive Modeling · Data Visualization
 
 ---
 
-## 📢 **Let's Connect!**  
-💼 **LinkedIn**: [linkedin.com/in/a-alaa-data](https://www.linkedin.com/in/a-alaa-data)  
-📫 **Email**: aalaaabdel@gmail.com  
-🌍 **Portfolio**: _(Check back soon!)_  
+## Currently Building
+
+### Pre-Visit Insurance & Claims Risk Platform
+
+Developing a healthcare operations tool that cleans and validates clinic appointment and insurance data and identifies potential eligibility and claims risks before care delivery.
+
+**Python · Pandas · Data Validation · Healthcare Analytics · Automation**
+
+More projects and technical case studies coming soon.
 
 ---
-💡 _Always open to discussions on AI applications in Finance, Cybersecurity, and Risk Modeling!_
+
+## Connect
+
+**LinkedIn:** [linkedin.com/in/a-alaa-data](https://www.linkedin.com/in/a-alaa-data)  
+**Email:** aalaaabdel@gmail.com
+**Half Past:** half-past.co
