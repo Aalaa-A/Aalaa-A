@@ -46,7 +46,6 @@ More projects and technical case studies coming soon.
 
 ## Connect
 
+**Half Past:** [half-past.co](https://half-past.co)  
 **LinkedIn:** [linkedin.com/in/a-alaa-data](https://www.linkedin.com/in/a-alaa-data)  
 **Email:** aalaaabdel@gmail.com
-
-**Half Past:** half-past.co
