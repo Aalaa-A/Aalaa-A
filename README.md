@@ -13,7 +13,6 @@ I'm a Data Scientist and AI developer with an MSc in Data Science & Artificial I
 I build data, machine learning, and AI systems for real-world operational problems, with a particular interest in healthcare AI and intelligent automation.
 
 Currently developing projects through **Half Past**, an independent healthtech automation initiative, applying data science/AI to operational problems for small healthcare providers in Saudi Arabia (e.g. insurance eligibility verification, claims workflow automation). Currently building and testing prototype tooling in Python/pandas; developing initial client-facing case studies.
----
 
 ## Technical Skills
 
